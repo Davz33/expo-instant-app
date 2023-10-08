@@ -1,0 +1,28 @@
+# VSCode
+#
+.vscode/
+jsconfig.json
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Expo
+.expo/*
+
+# OS
+**/.DS_Store
+
+# builds
+plugin/build
+
+# macOS
+.DS_Store
+
+
+
+
+

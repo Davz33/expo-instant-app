@@ -1,0 +1,12 @@
+{
+    "platforms": ["android"],
+    "version": "1.0.0",
+    "mainClass": "expo.modules.instantapp.ReactNativeInstantAppModule",
+    "modules": {
+      "android": {
+        "package": "expo.modules.instantapp",
+        "modules": ["ReactNativeInstantAppModule"]
+      }
+    }
+  }
+  
