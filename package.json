@@ -1,6 +1,6 @@
 {
-  "name": "@davz33/expo-instant-app-plugin",
-  "version": "1.0.1",
+  "name": "expo-instant-app",
+  "version": "1.0.2",
   "description": "A plugin made for enabling instant-app modifications of `AndroidManifes.xml` and other necessary ones, in order to make your expo-project instant-app compatible.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
