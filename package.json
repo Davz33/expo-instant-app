@@ -1,6 +1,6 @@
 {
   "name": "@davz33/expo-instant-app-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin made for enabling instant-app modifications of `AndroidManifes.xml` and other necessary ones, in order to make your expo-project instant-app compatible.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -19,8 +19,7 @@
     "test": "expo-module test",
     "prepare": "expo-module prepare",
     "prepublishOnly": "expo-module prepublishOnly",
-    "expo-module": "expo-module",
-    "install": "cp base.tsconfig.json node_modules/@tsconfig/node20/tsconfig.json"
+    "expo-module": "expo-module"
   },
   "author": "Davide Vitiello, Bitetechnology",
   "license": "ISC",
